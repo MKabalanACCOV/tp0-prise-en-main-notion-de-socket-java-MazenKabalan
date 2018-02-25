@@ -1,6 +1,6 @@
 # 2018 ACCOV tp0 : Prise en Main
 
-# Changed by MKabalan locally using git
+# Changed by @MazenKabalan locally using git
 
 # Prise en main TP cycle C (deuxième semestre) GLG204 et SMB215
 
@@ -40,16 +40,16 @@ http://concurrence.cofares.net/ConcurenceJava/ClientServeurMultiT/#socket-java
 
 ## le plan
 
-Temps        | Sujet
----         | ---
-(15mn)| Verifié que tous les pré-requis OK
-(10mn)| rejoindre la classroom
-(10mn)| faire un fork dans votre propre organisation
-(10mn)|cloner en local votre fork
-(30mn)|Faire le travail demandé par le TP
-(10mn)|Faire push dans votre fork
-(10mn)|Faire pullrequest dans le projet de la classroom
-(5mn)|avertir l'enseignant dans le projet de base de l'enseignant ([ici](https://github.com/clpf2018/2018-accov-tp0/issues))
+Temps        | Sujet                                      |Statut
+---         | ---|---
+(15mn)| Verifié que tous les pré-requis OK                |N.F.
+(10mn)| rejoindre la classroom                            |N.F.
+(10mn)| faire un fork dans votre propre organisation      |N.F.
+(10mn)|cloner en local votre fork                         |N.F.
+(30mn)|Faire le travail demandé par le TP                 |en attante
+(10mn)|Faire push dans votre fork                         |N.F.
+(10mn)|Faire pullrequest dans le projet de la classroom   |en attante
+(5mn)|avertir l'enseignant dans le projet de base de l'enseignant ([ici](https://github.com/clpf2018/2018-accov-tp0/issues)) |en attante
 
 # Réaliser le client/serveur tel que définie par
 
