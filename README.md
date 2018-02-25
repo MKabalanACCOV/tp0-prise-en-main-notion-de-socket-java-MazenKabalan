@@ -1,7 +1,7 @@
 # 2018 ACCOV tp0 : Prise en Main
 
 
-# Changed by MKabalan locally thwough git 
+# Changed by MKabalan locally through git 
 
 Élément                    | Exigence
 ---                     | ---
