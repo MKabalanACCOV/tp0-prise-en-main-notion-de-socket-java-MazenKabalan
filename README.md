@@ -1,8 +1,13 @@
 # 2018 ACCOV tp0 : Prise en Main
 
+<<<<<<< HEAD
 Changed by MKabalan locally using git
 
 # Prise en main TP cycle C (deuxième semestre) GLG204 et SMB215
+=======
+
+# Changed by MKabalan locally through git 
+>>>>>>> 3c19f7840abd54ea712bea4975a664b1b10291ae
 
 Élément                    | Exigence
 ---                     | ---
